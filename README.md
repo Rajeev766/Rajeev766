@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rajeev766
 - 👀 I’m interested in Web Developing, Salesforce and a little bit in softwares.
 - 🌱 I’m currently pursuing Btech CSE (2nd year) from Galgotias University
-- 💞️ I know  HTML, C, C++, Java programming languages.
+- 💞️ Knowlegeable to HTML5, C, C++, Java programming languages.
 - 📫 you can reach me on my insta @rajeev_choudhary_mk 
                        on my linkedin https://www.linkedin.com/in/rajeev-kumar-7438bb164/
 
